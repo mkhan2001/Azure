@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DC13D893-4032-45DF-8FE7-2D0E7E61F325}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhotoSharingApp/appsettings.json">
+    <Files>
+      <File FileName="PhotoSharingApp/appsettings.json" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PhotoSharingApp FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
