@@ -8,7 +8,7 @@
       <File FileName="Views/Shared/Error.cshtml" />
       <File FileName="Views/_ViewImports.cshtml" />
       <File FileName="Views/_ViewStart.cshtml" />
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="18" Column="20" />
       <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
